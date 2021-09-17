@@ -1,0 +1,1 @@
+# sum_square-in-python
